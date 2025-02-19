@@ -1,0 +1,1 @@
+This project focuses on analyzing Olympic data using Microsoft Azure services. The data is processed and analyzed using various cloud-based tools, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks. The goal is to extract data, use basic transformation and load again on Azure.
